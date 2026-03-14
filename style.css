@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+body{
+    background-image: url(yummu\ cakes.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+#text1{
+    color: rgb(238, 195, 67);
+    font-size: 200px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+#text2{
+    color: rgb(250, 114, 132);
+    font-size: 65px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color: rgba(112, 216, 152, 0.561);
+    border-radius: 30px;
+}
+button a{
+    color: rgba(215, 250, 236, 0.821);
+    font-size: 10.5px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: rgba(215, 246, 250, 0.516) ;
+}
